@@ -5,13 +5,13 @@ This course provides the foundation for understanding the key issues associated 
 
 ## Topics
 * Introduction to Information Security [[Slides](./Slides/chap01-%20Intro.%20To%20information%20Security.pdf)] [[Video](https://youtu.be/S-3AON3f8sA)]
-* Threats and Attacks
-* Legal and Ethical Issues
-* Risk Management
-* Technology Firewall and VPN
-* Technology Intrusion Detection System
-* Cryptography
-* Physical Security
+* Threats and Attacks [[Slides](./Slides/chap02%20-%20Threats%20and%20Attacks.pdf)]
+* Legal and Ethical Issues [[Slides](./Slides/chap03-%20Legal%20_%20Ethical%20Issues.pdf)]
+* Risk Management [[Slides](./Slides/chap04-%20Risk%20Management.pdf)]
+* Technology Firewall and VPN [[Slides](./Slides/chap06-%20Technology-Firewalls%20and%20VPN.pdf)]
+* Technology Intrusion Detection System [[Slides](./Slides/chap07-%20Technology-Intrusion%20Detection%20and%20Prevention.pdf)]
+* Cryptography [[Slides](./Slides/chap08-Cryptography.pdf)]
+* Physical Security [[Slides](./Slides/chap09-Physical%20Security.pdf)]
 
 ## Course Objectives
 After completing this course the student will be able to:
