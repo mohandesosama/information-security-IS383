@@ -1,4 +1,4 @@
-# information-security-IS383
+# Information Security course-IS383
 
 ## Topics
 * Introduction to Information Security [[Slides]] [[Video](https://youtu.be/S-3AON3f8sA)]
