@@ -4,7 +4,7 @@
 This course provides the foundation for understanding the key issues associated with protecting information assets, determining the levels of protection and response to security incidents, and designing a consistent, reasonable information security system, with appropriate intrusion detection and reporting features. The purpose of the course is to provide the student with an overview of the field of information security and assurance. Students will be exposed to the spectrum of security activities, methods, methodologies, and procedures. Coverage will include inspection and protection of information assets, detection of and reaction to threats to information assets, and examination of pre- and post-incident procedures, technical and managerial responses, and an overview of the information security planning and staffing functions.
 
 ## Topics
-* Introduction to Information Security [[Slides](./Slides/chap01-%20Intro.%20To%20information%20Security.pdf)] [[Video](https://youtu.be/S-3AON3f8sA)]
+* Introduction to Information Security [[Slides](./Slides/chap01-%20Intro.%20To%20information%20Security.pdf)] [[Sample Video](https://youtu.be/S-3AON3f8sA)]
 * Threats and Attacks [[Slides](./Slides/chap02%20-%20Threats%20and%20Attacks.pdf)]
 * Legal and Ethical Issues [[Slides](./Slides/chap03-%20Legal%20_%20Ethical%20Issues.pdf)]
 * Risk Management [[Slides](./Slides/chap04-%20Risk%20Management.pdf)]
